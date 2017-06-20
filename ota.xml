@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+<Stable>
+
+<kenzo>
+<Filename>7.1.2-20170620</Filename>
+<RomUrl id="rom" title="Download ROM" description="Download the latest version">https://www.androidfilehost.com/?fid=745425885120743046</RomUrl>
+<ChangelogUrl id="changelog" title="Changelog" description="Take a look at the latest changes">https://raw.githubusercontent.com/ABCrom-Kenzo/changelog/master/Changelog.txt</ChangelogUrl>
+<XDAUrl id="xda" title="XDA" description="Forum">https://forum.xda-developers.com/redmi-note-3/development/rom-abc-rom-t3616520</XDAUrl>
+<BeansGappsFullUrl id="beans-gapps-full" title="Beans GApps Full" description="10/06/2017 - Android 7.1.x">https://www.androidfilehost.com/?fid=745425885120739604</BeansGappsFullUrl>
+<BeansGappsMiniUrl id="beans-gapps-mini" title="Beans GApps Mini" description="10/06/2017 - Android 7.1.x">https://www.androidfilehost.com/?fid=673368273298962437</BeansGappsMiniUrl>
+<MagiskUrl id="magisk" title="Magisk" description="MagiskSU v12.0">http://tiny.cc/latestmagisk</MagiskUrl>
+<SuperSUUrl id="supersu" title="SuperSU" description="SuperSU v2.79">https://s3-us-west-2.amazonaws.com/supersu/download/zip/SuperSU-v2.79-201612051815.zip</SuperSUUrl>
+</kenzo>
+  
+</Stable>
+</SlimOTA>
