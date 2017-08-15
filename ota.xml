@@ -3,11 +3,11 @@
 <Stable>
 
 <kenzo>
-<Filename>7.1.2-20170808</Filename>
-<RomUrl id="rom" title="Download ROM" description="Get the latest version">https://www.androidfilehost.com/?fid=673368273298977299</RomUrl>
+<Filename>7.1.2-20170815</Filename>
+<RomUrl id="rom" title="Download ROM" description="Get the latest version">https://www.androidfilehost.com/?fid=889764386195923145</RomUrl>
 <ChangelogUrl id="changelog" title="Changelog" description="Take a look at the latest changes">https://raw.githubusercontent.com/ABCrom-Kenzo/changelog/master/Changelog.txt</ChangelogUrl>
 <XDAUrl id="xda" title="XDA" description="Forum">https://forum.xda-developers.com/redmi-note-3/development/rom-abc-rom-t3616520</XDAUrl>
-<OpenGappsUrl id="open-gapps" title="OpenGAPPS" description="Download latest OpenGAPPS">http://opengapps.org/</OpenGappsUrl>
+<OpenGappsUrl id="open-gapps" title="Open GApps" description="Download latest GAPPS">http://opengapps.org/</OpenGappsUrl>
 <MagiskUrl id="magisk" title="Magisk" description="MagiskSU v13.3">http://tiny.cc/latestmagisk</MagiskUrl>
 <SuperSUUrl id="supersu" title="SuperSU" description="SuperSU v2.79">https://s3-us-west-2.amazonaws.com/supersu/download/zip/SuperSU-v2.79-201612051815.zip</SuperSUUrl>
 </kenzo>
